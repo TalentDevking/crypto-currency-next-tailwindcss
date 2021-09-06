@@ -29,13 +29,11 @@ export default function Currency({ res }) {
 
 // SSR renders on-demand
 export async function getServerSideProps({ query }) {
-	console.log('crypto', query.currency);
 	const apiKey = process.env.API_KEY;
 	try {
 		const res = await fetch(
 			`https://api.nomics.com/v1/currencies?key=${apiKey}&ids=${query.currency}&attributes=id,name,logo_url,description,reddit_url`
 		).then((res) => res.json());
-		console.log('res', res);
 		return {
 			props: { res: res[0] },
 		};

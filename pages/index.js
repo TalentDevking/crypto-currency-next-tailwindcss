@@ -3,7 +3,6 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 export default function Home({ apiData }) {
-  console.log('apiData: ', apiData);
 	return (
 		<Layout page="Cryptocurrency Prices">
 			<ul className="flex justify-around py-10">
