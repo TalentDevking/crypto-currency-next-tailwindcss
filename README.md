@@ -1,6 +1,6 @@
 # :zap: Next Tailwind Crypto
 
-* A Next/Tailwind app with data & API news displayed, deployed to Vercel
+* A Next/Tailwind app to display Cryptocurrency info.
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/next-tailwind-crypto?style=plastic)
@@ -60,8 +60,8 @@
 
 ## :clipboard: Status & To-Do List
 
-* Status: Working. Deployed to Vercel
-* To-Do: add content to Home page, improve News page, add navbar colors & fix link, add Tailwind styling
+* Status: Working
+* To-Do: Add pwa, navbar, footer, home page grid of cards, detail page new card - add graph?
 
 ## :clap: Inspiration
 
