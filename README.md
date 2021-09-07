@@ -60,16 +60,16 @@
 
 ## :clipboard: Status & To-Do List
 
-* Status: Working
-* To-Do: Add pwa, navbar, footer, home page grid of cards, detail page new card - add graph?
+* Status: Working. Deployed to Vercel as PWA with perfect lighthouse score
+* To-Do: Add navbar, footer?, home page grid of cards & change crypto card content, detail page new card - add graph?
 
 ## :clap: Inspiration
 
 * [Install Tailwind CSS with Next.js](https://tailwindcss.com/docs/guides/nextjs)
 * [Medium: How to use Next.js <Image> component](https://medium.com/eincode/how-to-use-next-js-image-component-dfbf3725b12)
 * [Stackoverflow: Next.JS "Link" vs "router.push()" vs "a" tag](https://stackoverflow.com/questions/65086108/next-js-link-vs-router-push-vs-a-tag)
+* [Javascript Info: Async Await explained](https://javascript.info/async-await)
 * [Convert your website into a PWA in 8 simple steps](https://milindsoorya.site/blog/convert-your-website-into-a-pwa-in-8-simple-steps-next-js-pwa-series-part-2#step-6-edit-your-_documentjs-file)
-* [How to Deploy Next.js Sites to Netlify](https://www.netlify.com/blog/2020/11/30/how-to-deploy-next.js-sites-to-netlify/)
 
 ## :file_folder: License
 
