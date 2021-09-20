@@ -60,7 +60,7 @@
 
 ## :clipboard: Status & To-Do List
 
-* Status: Working. Deployed to Vercel as PWA with perfect lighthouse score
+* Status: Working basic app. Deployed to Vercel as PWA with perfect lighthouse score
 * To-Do: Add navbar, footer?, home page grid of cards & change crypto card content, detail page new card - add graph?
 
 ## :clap: Inspiration
@@ -73,7 +73,7 @@
 
 ## :file_folder: License
 
-* N/A
+* This project is licensed under the terms of the MIT license.
 
 ## :envelope: Contact
 
