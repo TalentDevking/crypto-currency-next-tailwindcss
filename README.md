@@ -36,13 +36,13 @@
 
 * [React v17](https://reactjs.org/) Javascript library.
 * [React icons v4](https://www.npmjs.com/package/react-icons)
-* [Next v11](https://nextjs.org/) minimalist framework for rendering react apps on the server.
-* [Tailwind v2](https://tailwindcss.com/) utility-first CSS framework
+* [Next v12](https://nextjs.org/) minimalist framework for rendering react apps on the server.
+* [Tailwind CSS v3](https://tailwindcss.com/) utility-first CSS framework
 * [PostCSS v8](https://postcss.org/) tool for transforming CSS with JavaScript
 * [Nomics Cryptocurrency API v1](https://nomics.com/docs/)
 * [Pixabay photos](https://pixabay.com) free to download
 * [pngTree](https://pngtree.com/) downloadable images, png etc.
-* [pwa-asset-generator v4](https://www.npmjs.com/package/pwa-asset-generator) Automated PWA asset generation and image declaration. Creates icons and JSON array for PWA manifest.json file
+* [pwa-asset-generator v6](https://www.npmjs.com/package/pwa-asset-generator) Automated PWA asset generation and image declaration. Creates icons and JSON array for PWA manifest.json file
 
 ## :floppy_disk: Setup
 
@@ -60,13 +60,13 @@
 
 ## :clipboard: Status & To-Do List
 
-* Status: Working basic app. Deployed to Vercel as PWA with perfect lighthouse score
+* Status: Working. Deployed to Vercel as PWA with perfect lighthouse score
 * To-Do: Add navbar, footer?, home page grid of cards & change crypto card content, detail page new card - add graph?
 
 ## :clap: Inspiration
 
 * [Install Tailwind CSS with Next.js](https://tailwindcss.com/docs/guides/nextjs)
-* [Medium: How to use Next.js <Image> component](https://medium.com/eincode/how-to-use-next-js-image-component-dfbf3725b12)
+* [Medium: How to use Next.js Image component](https://medium.com/eincode/how-to-use-next-js-image-component-dfbf3725b12)
 * [Stackoverflow: Next.JS "Link" vs "router.push()" vs "a" tag](https://stackoverflow.com/questions/65086108/next-js-link-vs-router-push-vs-a-tag)
 * [Javascript Info: Async Await explained](https://javascript.info/async-await)
 * [Convert your website into a PWA in 8 simple steps](https://milindsoorya.site/blog/convert-your-website-into-a-pwa-in-8-simple-steps-next-js-pwa-series-part-2#step-6-edit-your-_documentjs-file)
