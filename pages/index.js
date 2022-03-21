@@ -77,7 +77,7 @@ export async function getStaticProps(context) {
   const apiKey = process.env.API_KEY;
 	try {
 		const apiData = await fetch(
-			`https://api.nomics.com/v1/currencies/ticker?key=${apiKey}&ids=BTC,ETH,XRP&interval=1d,30d,365d`
+			`https://api.nomics.com/v1/currencies/ticker?key=${apiKey}&ids=BTC,ETH,XRP&interval=1d,30d,365d&per-page=100&page=1`
 		).then((res) => res.json());
 
 		return {
